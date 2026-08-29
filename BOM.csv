@@ -1,0 +1,18 @@
+Reference,Value,Function,Footprint status
+J1,ATX_5VSB_IN,+5VSB and GND input,Unassigned
+J2,EXT_5V_IN,External 5V and GND input,Unassigned
+F1,F2,PTC 1A to 1.5A placeholder,Input protection,Unassigned
+JP1,POWER_SELECT 3-pin,Select +5VSB or external 5V,Unassigned
+C1,470uF 10V or higher,5V bulk capacitance,Unassigned
+C2,100nF,5V decoupling,Unassigned
+J7,RPI_ZERO2W_USED_PINS,Logical Pi connection,Unassigned
+R1,390R,TLP241B input resistor,Unassigned
+R2,10k,GPIO23 pulldown,Unassigned
+U1,TLP241B,PWR_SW PhotoMOS,Unassigned
+J3,MB_PWR_SW,Motherboard power switch header,Unassigned
+J4,CASE_PWR_SW,Case power switch passthrough,Unassigned
+J5,MB_PWR_LED,Motherboard power LED header,Unassigned
+J6,CASE_PWR_LED,Case power LED passthrough,Unassigned
+R3,2.2k,PC817 input resistor,Unassigned
+U2,PC817X3NSZ1B,PWR_LED optocoupler,Unassigned
+R4,10k,GPIO24 pullup,Unassigned

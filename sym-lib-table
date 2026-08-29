@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "remote_pc_power")(type "Legacy")(uri "${KIPRJMOD}/remote_pc_power.lib")(options "")(descr "Local symbols for remote PC power controller"))
+)
